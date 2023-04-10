@@ -1,8 +1,8 @@
 # Hands On Computer Vision with Detectron2
 
-<a href="https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization-ebook/dp/B0BT7ZTLB2"><img src="https://m.media-amazon.com/images/I/511vT1ORLnL.jpg" alt="Data Engineering with AWS" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/object-detection-and-segmentation-using-detectron2/9781800561625"><img src="https://m.media-amazon.com/images/I/511vT1ORLnL.jpg" alt="Data Engineering with AWS" height="256px" align="right"></a>
 
-This is the code repository for [Hands On Computer Vision with Detectron2](https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization-ebook/dp/B0BT7ZTLB2), published by Packt.
+This is the code repository for [Hands On Computer Vision with Detectron2](https://www.packtpub.com/product/object-detection-and-segmentation-using-detectron2/9781800561625), published by Packt.
 
 **Develop object detection and segmentation models with a code and visualization approach**
 
@@ -24,7 +24,7 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization/dp/1800561628/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) today!
 
-<a href="https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization-ebook/dp/B0BT7ZTLB2"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
+<a href="https://www.packtpub.com/product/object-detection-and-segmentation-using-detectron2/9781800561625"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
