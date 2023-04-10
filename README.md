@@ -22,7 +22,7 @@ This book covers the following exciting features:
 * Deploy Detectron2 models into server environments with ease
 * Develop and deploy Detectron2 models into browser and mobile environments
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization-ebook/dp/B0BT7ZTLB2) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization/dp/1800561628/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) today!
 
 <a href="https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization-ebook/dp/B0BT7ZTLB2"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
