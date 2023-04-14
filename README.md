@@ -65,3 +65,8 @@ With the following software and hardware list you can run all code files present
   
 ## Get to Know the Author
 **Van Vung Pham** is a passionate research scientist in machine learning, deep learning, data science, and data visualization. He has years of experience and numerous publications in these areas. He is currently working on projects that use deep learning to predict road damage from pictures or videos taken from roads. One of the projects uses Detectron2 and Faster R-CNN to predict and classify road damage and achieve state-of-the-art results for this task. Dr. Pham obtained his PhD from the Computer Science Department, at Texas Tech University, Lubbock, Texas, USA. He is currently an assistant professor at the Computer Science Department, Sam Houston State University, Huntsville, Texas, USA.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800561625">https://packt.link/free-ebook/9781800561625 </a> </p>
