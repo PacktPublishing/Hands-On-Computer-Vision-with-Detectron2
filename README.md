@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Hands On Computer Vision with Detectron2
 
 <a href="https://www.packtpub.com/product/object-detection-and-segmentation-using-detectron2/9781800561625"><img src="https://m.media-amazon.com/images/I/511vT1ORLnL.jpg" alt="Data Engineering with AWS" height="256px" align="right"></a>
